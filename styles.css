@@ -1,0 +1,27 @@
+ body {
+      font-family: sans-serif;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      background: #f9f9f9;
+    }
+    h1 {
+      margin-bottom: 20px;
+      text-align: center;
+    }
+    a {
+      display: block;
+      margin: 10px 0;
+      padding: 15px 25px;
+      border-radius: 8px;
+      font-size: 18px;
+      text-decoration: none;
+      color: white;
+      width: 220px;
+      text-align: center;
+    }
+    .google { background: #4285F4; }
+    .apple { background: #000000; }
